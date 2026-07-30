@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    justify-self: center;
+    align-items: center;
+    margin-top:auto;
+   
+}
+.border{
+     border:2px solid;
+
+}
+
+.center h2 {
+    margin-top: 200px;
+    /* align-items: center; */
+    
+}
+
+.center label {
+
+    display: block;
+    text-align: start;
+    /* align-content: end; */
+ justify-content:center;
+}
+
+.center input {
+    display: block;
+    text-align: start;
+
+
+}
