@@ -1,0 +1,23 @@
+#game {
+
+    width: 280px;
+    height: 160px;
+
+    position: relative;
+
+}
+
+#timer {
+
+    position: absolute;
+
+    top: 8px;
+    right: 8px;
+
+    font-weight: bold;
+}
+
+#star {
+    position: absolute;
+    cursor: pointer;
+}
